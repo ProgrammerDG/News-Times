@@ -1,0 +1,31 @@
+#footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(0, 0, 64);
+    margin-top: 150px;
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+#footerTopBtn{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: goldenrod;
+    color: navy;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+}
+
+#footerTopBtn:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+#footerP{
+    text-align: center;
+    color: white;
+    font-size:large;
+}
+
